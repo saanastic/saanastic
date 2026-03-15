@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=BTech+CSE+Student;Potterhead+Developer;Learning+Web+Development;Building+Cool+Projects&center=true&width=500&height=45">
 </p>
+<p align="center">
+  <img src="https://github.com/saanastic/saanastic/blob/main/image.png" />
+</p>
 
 <!--
 **saanastic/saanastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
